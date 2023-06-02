@@ -1,6 +1,6 @@
 # GAME-STORE
 
-An Ecommerce web app with complex UX and UI desgins built with React.js with Vite.
+An Ecommerce web app with complex UX and UI desgins built with React.js & Vite.
 A well built app using one of react's state management library 'Context Api' and Toastyfier for alerts when users add items to cart.
 
 
